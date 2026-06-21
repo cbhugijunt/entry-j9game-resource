@@ -1,2 +1,14 @@
 # entry-j9game-resource
-HTML page archive and documentation
+
+独立 HTML 页面集合
+
+这里是自动发布页面的存放目录，用于集中维护生成结果。
+
+## 内容记录
+
+- 页面文件会逐步增加
+- 仓库说明会随配置保持更新
+
+## 检查说明
+
+如需核对发布结果，可同时查看 GitHub 文件链接和 Pages 链接。
